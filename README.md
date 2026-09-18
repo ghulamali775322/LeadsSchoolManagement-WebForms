@@ -69,6 +69,6 @@ git clone https://github.com/MuhammadRahat1/LeadsSchoolManagement-WebForms.git
 
 Made by Ghulam Ali 
 📧 Email: ghulamali5322@gmail.com   
-🌐 GitHub:[AliGhulam](https://github.com/ghulamali775322)
+🌐 GitHub: [AliGhulam] (https://github.com/ghulamali775322)
 
 
