@@ -60,7 +60,7 @@ This is an **Admin Panel** for managing school operations, built using **ASP.NET
 # 🚀 Getting Started
 
 1. Clone this repository:
-git clone https://github.com/MuhammadRahat1/LeadsSchoolManagement-WebForms.git
+git clone https://github.com/ghulamali775322/LeadsSchoolManagement-WebForms.git
 2. Open the `.sln` file in Visual Studio
 3. Configure your database in `Web.config`
 4. Press F5 to run the app locally
